@@ -1,7 +1,8 @@
-package com.ooftf.sample
+package com.ooftf.support.sample
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import com.ooftf.support.R
 
 class MainActivity : AppCompatActivity() {
 
