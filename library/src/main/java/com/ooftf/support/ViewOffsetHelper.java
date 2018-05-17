@@ -27,7 +27,7 @@ import android.view.View;
  * Also the setting of absolute offsets (similar to translationX/Y), rather than additive
  * offsets.
  */
-class ViewOffsetHelper {
+public class ViewOffsetHelper {
 
     private final View mView;
 
